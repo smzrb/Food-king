@@ -90,8 +90,9 @@ text-align: center;
     height: 450px;
     margin-left: 2%;
     margin-right: 5%;
-   
-    padding-top: 40px;
+
+
+  padding-top: 40px;
     padding-left:20px;
     border-radius: 40px;
     box-shadow: 10px 10px 40px rgb(155, 120, 23);
@@ -101,4 +102,11 @@ text-align: center;
      width: 80%;
      border-radius: 10px;
      margin-left: 20px;
+ }
+
+ #bg-color{
+     background-color: lightblue;
+     text-align: center;
+     padding: 20px;
+
  }

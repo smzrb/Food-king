@@ -1,7 +1,28 @@
+
+header{
+
+background-image: url(images/pexels-valeria-boltneva-1639562.jpg);
+color: rgb(75, 172, 30);
+width: 100%;
+margin-bottom: 70px;
+text-align: center;
+
+
+}
+
+button{
+
+    color: white;
+    background-image: linear-gradient(rgb(204, 191, 9) ,rgb(194, 104, 20));
+    padding: 10px;
+    border-radius: 30px;
+  
+}
+
 body{
     font-family:'Oxygen', sans-serif;
   
-    margin-top: 60px;
+    
 }
 .purple-color{
     color: purple;
@@ -14,6 +35,7 @@ body{
     padding: 10px 30px;
     border-radius: 25px;
     font-weight: 800;
+   
     
 
 }
@@ -104,6 +126,24 @@ text-align: center;
      margin-left: 20px;
  }
 
+
+ .flexible11{
+
+display: flex;
+margin-left: 20%;
+margin-right: 20%;
+margin-top: 5%;
+margin-bottom: 5%;
+padding: 20px 20px 0 20px;
+border-radius: 50px;
+box-shadow: 10px 10px 45px rgb(87, 194, 104);
+ }
+
+ .followers{
+     width: 38%;
+     margin-left: 10%;
+     margin-right: 10%;
+ }
  #bg-color{
      background-color: lightblue;
      text-align: center;
